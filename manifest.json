@@ -1,0 +1,10 @@
+{
+    "pluginVersion": 1,
+    "name": "common_components",
+    "myVersion": "1.0.0.0",
+    "shortDescription": " NXT",
+    "infoUrl": "https://github.com/valortech/common_components",
+    "startPage": "p_common_components",
+    "nrsVersion": "1.8.1",
+    "deactivated": false
+}
